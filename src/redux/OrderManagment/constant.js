@@ -1,0 +1,5 @@
+// @flow
+
+export const SET_ERROR_MESSAGE = 'ADD/SET_ERROR_MESSAGE';
+export const ADD_REQUEST = 'ADD/ADD_REQUEST';
+export const UPLOAD_REQUEST = 'ADD/UPLOAD_REQUEST';

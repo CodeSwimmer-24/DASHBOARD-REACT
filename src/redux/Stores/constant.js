@@ -1,0 +1,5 @@
+// @flow
+
+export const SET_ERROR_MESSAGE = 'Store/SET_ERROR_MESSAGE';
+export const CREATE_STORE_REQUEST = 'Store/CREATE_STORE_REQUEST';
+export const CREATE_STORE_SUCCESS = 'Store/CREATE_STORE_SUCCESS';
